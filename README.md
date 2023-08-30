@@ -1,4 +1,4 @@
-<h2 align="left">Hey! My name is thunderMustar and I'm a .sofDev from Brazil</h2>
+<h2 align="left">Hey! My name is thunderMustars and I'm a Dev from Brazil</h2>
 
 ###
 
